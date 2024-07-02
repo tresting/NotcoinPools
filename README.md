@@ -1,0 +1,2 @@
+# NotcoinPools
+Notcoin Pools Monitoring
